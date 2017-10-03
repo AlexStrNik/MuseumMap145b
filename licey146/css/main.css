@@ -1,0 +1,12 @@
+.bg-white{
+    background-color: #fff!important;
+}
+.bg-black{
+    background-color: #212529!important;
+}
+.figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+}
